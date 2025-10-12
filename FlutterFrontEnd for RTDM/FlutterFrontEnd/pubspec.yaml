@@ -1,0 +1,28 @@
+name: health_track
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0' # Adjusted for broader compatibility
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # CORRECTED: Added specific, up-to-date versions for Firebase
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.4
+  
+  cupertino_icons: ^1.0.8
+  crypto: ^3.0.3 # Added a version number for consistency
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0 # Updated to a more recent version
+
+flutter:
+  uses-material-design: true
