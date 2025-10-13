@@ -1,5 +1,5 @@
 # Real-Time Disaster Training Monitoring System
-*A Submission for the Smart India Hackathon 2025 by Team PLEXUS* 
+*A Submission for the Smart India Hackathon 2025 by Team PLEXUS*
 
 ---
 
@@ -25,6 +25,13 @@ The project is fully deployed and can be accessed using the links and credential
 **Dashboard (Admin/Authority):**
 * **Username:** `admin`
 * **Password:** `password123`
+
+### Sample Data for Searching
+
+To test the search functionality on the **frontend application**, you may use the following pre-loaded program IDs:
+* `AP-NGO-001`
+* `TS-NGO-998`
+* `MH-NGO-443`
 
 ---
 
