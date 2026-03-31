@@ -10,9 +10,9 @@ This project is a real-time digital platform designed to monitor and evaluate di
 ---
 ## Screeshots
 
-<img width="1892" height="946" alt="image" src="https://github.com/user-attachments/assets/76ed46a3-7780-4456-aeaf-6b3c816306bc" />
-<img width="1907" height="945" alt="Screenshot 2026-03-31 144638" src="https://github.com/user-attachments/assets/c3c2b388-3faa-4405-9fb9-a07770994336" />
-<img width="1892" height="946" alt="Screenshot 2026-03-31 144647" src="https://github.com/user-attachments/assets/32812da1-0a02-4dfe-87cc-064381bc19f9" />
+<img width="1897" height="949" alt="Screenshot 2026-03-31 144616" src="https://github.com/user-attachments/assets/327c8b64-e157-49c4-9bcf-3796d81d3d12" />
+<img width="1907" height="945" alt="Screenshot 2026-03-31 144638" src="https://github.com/user-attachments/assets/ac6cf4a5-7d7b-4069-a365-9f21cc77eb92" />
+
 
 ## Live Demo and Test Access
 
